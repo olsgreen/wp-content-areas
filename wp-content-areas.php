@@ -119,6 +119,8 @@ class WP_Content_Areas
                 ),
                 'public' => true,
                 'has_archive' => false,
+                'menu_icon'           => 'dashicons-schedule',
+
             )
         );
     }
