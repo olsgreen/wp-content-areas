@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Content Areas\n"
+"POT-Creation-Date: 2015-03-08 14:37-0000\n"
+"PO-Revision-Date: 2015-03-08 14:38-0000\n"
+"Last-Translator: \n"
+"Language-Team: builddigital.uk <oliver@builddigital.uk>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/olsgreen/Sites/straight/wp-content/plugins/wp-"
+"content-areas\n"
+
+#: /Users/olsgreen/Sites/straight/wp-content/plugins/wp-content-areas/wp-content-areas.php:108
+msgid "Content Areas"
+msgstr ""
+
+#: /Users/olsgreen/Sites/straight/wp-content/plugins/wp-content-areas/wp-content-areas.php:109
+msgid "Content Area"
+msgstr ""
+
+#: /Users/olsgreen/Sites/straight/wp-content/plugins/wp-content-areas/wp-content-areas.php:121
+msgid "Title"
+msgstr ""
+
+#: /Users/olsgreen/Sites/straight/wp-content/plugins/wp-content-areas/wp-content-areas.php:122
+msgid "Shortcode"
+msgstr ""
+
+#: /Users/olsgreen/Sites/straight/wp-content/plugins/wp-content-areas/wp-content-areas.php:123
+msgid "Last Modified"
+msgstr ""
+
+#: /Users/olsgreen/Sites/straight/wp-content/plugins/wp-content-areas/wp-content-areas.php:124
+msgid "Date"
+msgstr ""
